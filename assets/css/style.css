@@ -1247,6 +1247,14 @@ section {
     border-radius: 10px;
 }
 
+.h1-back {
+    background: linear-gradient(to right, #e91e63, #a0a0a0);
+    color: #fff;
+    padding: 10px;
+    border-radius: 9px;
+    text-shadow: 0.9px 0.9px 0.4px #333;
+}
+
 #footer .social-links a {
     font-size: 18px;
     display: inline-block;
