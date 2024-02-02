@@ -1243,6 +1243,10 @@ section {
     background: linear-gradient(102deg, #e91e63, #3398db);
 }
 
+.img-mark {
+    border-radius: 10px;
+}
+
 #footer .social-links a {
     font-size: 18px;
     display: inline-block;
