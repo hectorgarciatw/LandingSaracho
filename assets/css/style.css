@@ -1280,8 +1280,8 @@ section {
 }
 
 .markFlags {
-    background-color: #45505b;
-    color: #fff;
+    background-color: none;
+    color: #45505b;
 }
 
 .marklist {
