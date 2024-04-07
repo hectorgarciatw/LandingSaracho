@@ -1279,6 +1279,11 @@ section {
     color: #fff;
 }
 
+.markFlags {
+    background-color: #45505b;
+    color: #fff;
+}
+
 .marklist {
     background-color: #fff3cd;
 }
